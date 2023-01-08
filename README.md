@@ -4,7 +4,7 @@ This repository accompanies our manuscript, TITLE
 
 Link: LINK
 
-As of Jan. 8, 2023 the file paths in all of these scripts reflect the local environment on Ashley's computer and would have to be changed if you choose to utilize this code. We are continuing to work on making this analysis more reproducible as we continue to update the accompanying manuscript. 
+As of Jan. 8, 2023 the file paths in all of these scripts reflect the local environment on Ashley's computer and would have to be changed if you choose to utilize this code. We are continuing to work on making this analysis more reproducible as we continue to update the accompanying preprint-in-progress. 
 
 ### 1. Adapter trimming
 
