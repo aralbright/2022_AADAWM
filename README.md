@@ -21,5 +21,5 @@ The file 2_kallisto_loop.sh contains 2 separate scripts that run locally on the 
 
 ### 4. Skew Analysis
 
-4_SkewAnalysis.ipynb 
+4_SkewAnalysis.ipynb contains all of the skew analysis. This was used to generate Figure 2 and 3, and contains all tables associated with the manuscript. 
 
