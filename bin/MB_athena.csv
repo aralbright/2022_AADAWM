@@ -1,0 +1,130 @@
+﻿Protein,Whole Cell,Cell bodies,MB,Anterior,Posterior,total,upper_plus_lower,binomial_antpos,MB+body,binomial_MB_body,Whole Cell normalized,Cell bodies normalized,MB normalized,Anterior normalized,Posterior normalized,MB RA vs whole cells,Cell bodies RA vs whole cells,Posterior RA vs whole cells,Anterior RA vs whole cells,MB RA vs cell bodies,prot.cluster,RNAseq,Manual Annotation,Description from StentorDB,SpAntClusterByTime,SpAntClusterAssignment,SpPostClusterByTime,SpPostClusterAssignment,Biological Function,Oxytricha Homolog Annotation
+SteCoe_3192,0,1,4,3,5,13,8,0.200252828,5,0.957495757,0,1.2,4,2.1,5,40,12,50,21,3.076923077,1,,,Sod_Cu domain protein,,,,,oxidation-reduction process,Copper/zinc superoxide dismutase (SODC)
+SteCoe_6184,0,1,4,4,4,13,8,0.444436384,5,0.957495757,0,1.2,4,2.8,4,40,12,40,28,3.076923077,1,,,Dynein_light domain protein,,,,,cilia,Dynein light chain type 1
+SteCoe_3383,1,1,4,1,1,8,2,0.659522774,5,0.957495757,2.9,1.2,4,0.7,1,1.333333333,0.4,0.333333333,0.233333333,3.076923077,NA,,,EF-hand_7 domain protein,,,,,,EF hand
+SteCoe_20506,0,1,4,0,1,6,1,0.416495736,5,0.957495757,0,1.2,4,0,1,40,12,10,0,3.076923077,NA,,,hypothetical protein,,,,,,
+SteCoe_2938,2,2,7,6,4,21,10,0.658188829,9,0.969672385,5.9,2.4,7,4.2,4,1.166666667,0.4,0.666666667,0.7,2.8,1,,,DOMON domain protein,,,,,,
+SteCoe_3505,2,3,10,16,9,40,25,0.779351687,13,0.980188529,5.9,3.6,10,11.2,8.9,1.666666667,0.6,1.483333333,1.866666667,2.702702703,1,,,14-3-3 domain protein,,,,,,14-3-3 protein
+SteCoe_13662,2,3,10,7,1,23,8,0.986561454,13,0.980188529,5.9,3.6,10,4.9,1,1.666666667,0.6,0.166666667,0.816666667,2.702702703,1,,,EF-hand_5 domain protein,,,300,4,,EF-hand domain pair
+SteCoe_1192,1,2,8,5,3,19,8,0.718114377,10,0.982283037,2.9,2.4,8,3.5,3,2.666666667,0.8,1,1.166666667,3.2,1,,,EF-hand_8 domain protein,,,,,,EF-hand domain pair
+SteCoe_6780,0,2,8,2,1,13,3,0.801330087,10,0.982283037,0,2.4,8,1.4,1,80,24,10,14,3.2,1,,IFT56,TPR_6 domain protein,,,,,cilia,Anaphase-promoting complex; cyclosome; subunit 3
+SteCoe_22756,0,1,6,3,3,13,6,0.489853477,7,0.987982747,0,1.2,6,2.1,3,60,12,30,21,4.615384615,1,OA 4,EF-hand_7 domain protein,EF-hand_7 domain protein,,,,,EF hand,EF-hand domain
+SteCoe_1536,0,1,6,1,1,9,2,0.659522774,7,0.987982747,0,1.2,6,0.7,1,60,12,10,7,4.615384615,NA,,,Actin domain protein,,,,,,Actin
+SteCoe_15170,0,2,9,1,3,15,4,0.198721725,11,0.989733469,0,2.4,9,0.7,3,90,24,30,7,3.6,1,,,hypothetical protein,,,,,,
+SteCoe_18577,0,1,7,1,1,10,2,0.659522774,8,0.993610135,0,1.2,7,0.7,1,70,12,10,7,5.384615385,1,sucrose 3,,ANAPC3 domain protein,300,4,,,,TPR repeat
+SteCoe_12857,4,3,13,12,6,38,18,0.829655941,16,0.995583738,11.7,3.6,13,8.4,6,1.101694915,0.305084746,0.508474576,0.711864407,3.513513514,1,OA 4,EF-hand_7 domain protein,EF-hand_7 domain protein,,,,,EF hand,EF-hand domain
+SteCoe_32978,0,1,8,2,1,12,3,0.801330087,9,0.996602354,0,1.2,8,1.4,1,80,12,10,14,6.153846154,1,sucrose 3,IFT271,hypothetical protein,,,,,cilia,Region in Clathrin and VPS
+SteCoe_3296,0,1,8,2,0,11,2,1,9,0.996602354,0,1.2,8,1.4,0,80,12,0,14,6.153846154,1,,,LRR_9 domain protein,,,,,,Leucine Rich repeats (2 copies)
+SteCoe_9508,2,2,11,9,4,28,13,0.859986793,13,0.996618961,5.9,2.4,11,6.3,4,1.833333333,0.4,0.666666667,1.05,4.4,1,,,EF-hand_7 domain protein,,,,,,EF hand
+SteCoe_23966,1,3,14,5,6,29,11,0.284114759,17,0.997363232,2.9,3.6,14,3.5,6,4.666666667,1.2,2,1.166666667,3.783783784,1,OA 4,EF-hand_7 domain protein,EF-hand_7 domain protein,,,,,EF hand,EF-hand domain
+SteCoe_21613,16,14,40,35,22,127,57,0.724575407,54,0.999508302,46.9,16.6,40,24.4,21.9,0.85106383,0.353191489,0.465957447,0.519148936,2.395209581,1,OA 5,ef hand 7,EF-hand_7 domain protein,,,180,3,EF hand,EF-hand domain
+SteCoe_36556,1,1,12,7,0,21,7,1,13,0.999728404,2.9,1.2,12,4.9,0,4,0.4,0,1.633333333,9.230769231,1,OA 5,ef-hand domain 8,EF-hand_8 domain protein,,,,,EF hand,EF-hand domain pair
+SteCoe_1748,2,4,21,12,2,41,14,0.994169155,25,0.999746589,5.9,4.8,21,8.4,2,3.5,0.8,0.333333333,1.4,4.285714286,1,OA 5,EF hand 7 domain,EF-hand_7 domain protein,,,,,EF hand,EF-hand domain pair
+SteCoe_559,0,1,13,10,4,28,14,0.899364336,14,0.999855586,0,1.2,13,7,4,130,12,40,70,10,1,OA 4,spag6/PF16,Arm domain protein,,,,,cilia,Armadillo/beta-catenin-like repeat
+SteCoe_31315,2,2,19,4,3,30,7,0.615485129,21,0.999966169,5.9,2.4,19,2.8,3,3.166666667,0.4,0.5,0.466666667,7.6,1,,hypothetical protein conserved in ciliates,hypothetical protein,,,,,,Furin-like cysteine rich region
+SteCoe_16405,0,1,17,2,0,20,2,1,18,0.999988456,0,1.2,17,1.4,0,170,12,0,14,13.07692308,1,,dynein heavy chain,Kelch_4 domain protein,,,,,cilia,Dynein heavy chain and region D6 of dynein motor
+SteCoe_29713,0,1,17,0,0,18,0,1,18,0.999988456,0,1.2,17,0,0,170,12,0,0,13.07692308,1,sucrose 4,CAMKL,CAMK related kinase with N-terminal ADK domain,300,4,,,protein phosphorylation,Protein kinase domain
+SteCoe_22851,2,2,25,3,2,34,5,0.690946616,27,0.999999028,5.9,2.4,25,2.1,2,4.166666667,0.4,0.333333333,0.35,10,1,,tubuiln domain (is it tubulin?),Tubulin domain protein,,,,,,Tubulin/FtsZ family; GTPase domain
+SteCoe_9200,1,1,24,5,1,32,6,0.960530266,25,0.999999861,2.9,1.2,24,3.5,1,8,0.4,0.333333333,1.166666667,18.46153846,1,sucrose 4,CDPK kinase,CDPK-like predicted pseudokinase with ADK domain,,,,,protein phosphorylation,Adenylate kinase
+SteCoe_214,2,1,33,10,1,47,11,0.997330165,34,1,5.9,1.2,33,7,1,5.5,0.2,0.166666667,1.166666667,25.38461538,1,sucrose 4,FAP16/FAP44,HELP domain protein,,,,,cilia,WD domain; G-beta repeat
+SteCoe_740,44,54,152,105,68,423,173,0.758016657,206,1,128.9,64.2,152,73.3,67.5,1.178294574,0.497674419,0.523255814,0.568217054,2.363919129,1,,tubulin domain,Tubulin domain protein,,,,,,Tubulin/FtsZ family; GTPase domain
+SteCoe_1580,3,2,41,12,3,61,15,0.979819715,43,1,8.8,2.4,41,8.4,3,4.606741573,0.269662921,0.337078652,0.943820225,16.4,1,OA 4,FAP16/FAP44,HELP domain protein,,,,,cilia,WD domain; G-beta repeat
+SteCoe_217,1,1,54,17,6,79,23,0.961221582,55,1,2.9,1.2,54,11.9,6,18,0.4,2,3.966666667,41.53846154,1,,dynein heavy chain,Kelch_4 domain protein,,,,,cilia,Dynein heavy chain and region D6 of dynein motor
+SteCoe_5719,25,34,154,68,51,332,119,0.428908918,188,1,73.2,40.4,154,47.4,50.7,2.10095498,0.551159618,0.691678035,0.646657572,3.802469136,1,,tubulin domain,Tubulin domain protein,,,,,,Tubulin/FtsZ family; GTPase domain
+SteCoe_11197,0,2,82,23,10,117,33,0.935352524,84,1,0,2.4,82,16,9.9,820,24,99,160,32.8,1,sucrose 5,dynein heavy chain,DHC_N1 domain protein,,,,,cilia,Dynein heavy chain and region D6 of dynein motor
+SteCoe_22505,1,0,27,1,0,29,1,1,27,1,2.9,0,27,0.7,0,9,0,0,0.233333333,270,1,sucrose 4,hydin,PapD-like domain protein,,,,,cilia,MSP (Major sperm protein) domain
+SteCoe_11872,0,0,24,6,0,30,6,1,24,1,0,0,24,4.2,0,240,0,0,42,240,1,sucrose 3,ef hand 7 domain,EF-hand_7 domain protein,,,,,EF hand,EF-hand domain
+SteCoe_8007,0,0,23,0,0,23,0,1,23,1,0,0,23,0,0,230,0,0,0,230,1,sucrose 3,dynein heavy chain,DHC_N2 domain protein,,,,,cilia,Dynein heavy chain and region D6 of dynein motor
+SteCoe_13621,0,0,20,2,0,22,2,1,20,1,0,0,20,1.4,0,200,0,0,14,200,1,sucrose 3,dynein heavy chain,DHC_N2 domain protein,,,,,cilia,Dynein heavy chain and region D6 of dynein motor
+SteCoe_4738,0,0,20,1,0,21,1,1,20,1,0,0,20,0.7,0,200,0,0,7,200,1,sucrose 3,dynein heavy chain,DHC_N1 domain protein,,,,,cilia,Dynein heavy chain and region D6 of dynein motor
+SteCoe_28352,0,0,20,0,0,20,0,1,20,1,0,0,20,0,0,200,0,0,0,200,1,sucrose 4,dynein heavy chain,DHC_N2 domain protein,,,,,cilia,Dynein heavy chain and region D6 of dynein motor
+SteCoe_24598,0,0,19,4,0,23,4,1,19,1,0,0,19,2.8,0,190,0,0,28,190,1,sucrose 1,dynein heavy chain,DHC_N1 domain protein,,,,,cilia,Dynein heavy chain and region D6 of dynein motor
+SteCoe_19920,2,0,17,8,2,29,10,0.962765182,17,1,5.9,0,17,5.6,2,2.833333333,0,0.333333333,0.933333333,170,1,,ef hand 8 domain,EF-hand_8 domain protein,,,90,2,EF hand,EF-hand domain pair
+SteCoe_5473,0,0,17,1,0,18,1,1,17,1,0,0,17,0.7,0,170,0,0,7,170,1,sucrose 4,ef hand protein in oxy,hypothetical protein,,,,,EF hand,EF-hand domain pair
+SteCoe_29163,0,0,16,4,0,20,4,1,16,1,0,0,16,2.8,0,160,0,0,28,160,1,OA 4,GAS2-like,hypothetical protein,,,,,GAS2,
+SteCoe_18549,0,0,16,0,1,17,1,0.416495736,16,1,0,0,16,0,1,160,0,10,0,160,1,sucrose 4,dynein heavy chain,DHC_N2 domain protein,,,,,cilia,Dynein heavy chain and region D6 of dynein motor
+SteCoe_18966,0,0,16,0,0,16,0,1,16,1,0,0,16,0,0,160,0,0,0,160,1,sucrose 3,dynein heavy chain,DUF4496 domain protein,,,,,cilia,Dynein heavy chain and region D6 of dynein motor
+SteCoe_21428,0,0,16,0,0,16,0,1,16,1,0,0,16,0,0,160,0,0,0,160,1,sucrose 3,EF-hand 8 domain protein,EF-hand_8 domain protein,,,,,EF hand,EF-hand domain pair
+SteCoe_12657,0,0,15,2,1,18,3,0.801330087,15,1,0,0,15,1.4,1,150,0,10,14,150,1,sucrose 5,ODA9 dynein intermediate chain,WD40 domain protein,,,,,cilia,WD domain; G-beta repeat
+SteCoe_19042,1,0,14,4,1,20,5,0.932357419,14,1,2.9,0,14,2.8,1,4.666666667,0,0.333333333,0.933333333,140,1,OA 5,ef hand 7 domain,EF-hand_7 domain protein,,,,,EF hand,EF-hand domain pair
+SteCoe_23868,0,0,14,1,0,15,1,1,14,1,0,0,14,0.7,0,140,0,0,7,140,1,,ef hand 7 domain,EF-hand_7 domain protein,,,,,EF hand,EF-hand domain
+SteCoe_19756,0,0,14,0,0,14,0,1,14,1,0,0,14,0,0,140,0,0,0,140,1,,FAP21,hypothetical protein,,,,,cilia,hypothetical protein
+SteCoe_16409,1,0,13,5,2,21,7,0.861896409,13,1,2.9,0,13,3.5,2,4.333333333,0,0.666666667,1.166666667,130,1,sucrose 4,FAP16,HELP domain protein,,,,,cilia,WD domain; G-beta repeat
+SteCoe_21611,0,0,13,4,0,17,4,1,13,1,0,0,13,2.8,0,130,0,0,28,130,1,,RIB72,DUF1126 domain protein,,,,,cilia,Repeat of unknown function (DUF1126)
+SteCoe_702,0,0,13,4,0,17,4,1,13,1,0,0,13,2.8,0,130,0,0,28,130,1,,GAS2 domain protein,GAS2 domain protein,,,,,GAS2,
+SteCoe_2776,0,0,13,2,0,15,2,1,13,1,0,0,13,1.4,0,130,0,0,14,130,1,sucrose 4,PACRG,ParcG domain protein,,,,,cilia,Parkin co-regulated protein
+SteCoe_20432,1,0,12,3,1,17,4,0.884075259,12,1,2.9,0,12,2.1,1,4,0,0.333333333,0.7,120,1,,dynein heavy chain,Dynein_heavy domain protein,,,,,cilia,Dynein heavy chain and region D6 of dynein motor
+SteCoe_499,1,0,12,2,0,15,2,1,12,1,2.9,0,12,1.4,0,4,0,0,0.466666667,120,1,sucrose 3,FAP52 (MIP),WD40 domain protein,,,,,cilia,WD domain; G-beta repeat
+SteCoe_10119,0,0,12,0,1,13,1,0.416495736,12,1,0,0,12,0,1,120,0,10,0,120,1,,hypothetical protein,hypothetical protein,,,,,,
+SteCoe_23544,0,0,12,1,0,13,1,1,12,1,0,0,12,0.7,0,120,0,0,7,120,1,sucrose 3,RSP4,Radial_spoke domain protein,,,,,cilia,Radial spokehead-like protein
+SteCoe_33155,0,0,12,0,0,12,0,1,12,1,0,0,12,0,0,120,0,0,0,120,1,sucrose 3,adenylate kinase,hypothetical protein,,,,,,Adenylate kinase
+SteCoe_17870,0,0,11,2,1,14,3,0.801330087,11,1,0,0,11,1.4,1,110,0,10,14,110,1,sucrose 4,EF-hand 7 protein,EF-hand_7 domain protein,,,,,EF hand,EF hand
+SteCoe_12866,0,0,11,3,0,14,3,1,11,1,0,0,11,2.1,0,110,0,0,21,110,1,sucrose 4,dynein heavy chain,DHC_N2 domain protein,,,,,cilia,Dynein heavy chain and region D6 of dynein motor
+SteCoe_26963,0,0,11,1,0,12,1,1,11,1,0,0,11,0.7,0,110,0,0,7,110,1,sucrose 3,RIB72,DUF1126 domain protein,300,4,,,cilia,Repeat of unknown function (DUF1126)
+SteCoe_28006,0,0,11,0,0,11,0,1,11,1,0,0,11,0,0,110,0,0,0,110,1,sucrose 3,FAP44,hypothetical protein,300,4,,,cilia,WD domain; G-beta repeat
+SteCoe_1167,0,0,10,4,0,14,4,1,10,1,0,0,10,2.8,0,100,0,0,28,100,1,sucrose 4,RSP4,Radial_spoke domain protein,,,,,cilia,Radial spokehead-like protein
+SteCoe_1022,0,0,10,2,1,13,3,0.801330087,10,1,0,0,10,1.4,1,100,0,10,14,100,1,sucrose 3,ODA6 dynein intermediate chain,hypothetical protein,,,,,cilia,WD domain; G-beta repeat
+SteCoe_13619,0,0,10,1,0,11,1,1,10,1,0,0,10,0.7,0,100,0,0,7,100,1,OA 4,GAS2-like,hypothetical protein,,,,,GAS2,
+SteCoe_710,0,0,10,1,0,11,1,1,10,1,0,0,10,0.7,0,100,0,0,7,100,1,,FAP20/BUG22,DUF667 domain protein,,,,,cilia,Protein of unknown function (DUF667)
+SteCoe_14094,0,0,10,0,0,10,0,1,10,1,0,0,10,0,0,100,0,0,0,100,1,sucrose 1,WD domain protein,hypothetical protein,,,,,,WD domain; G-beta repeat
+SteCoe_17853,0,0,10,0,0,10,0,1,10,1,0,0,10,0,0,100,0,0,0,100,1,sucrose 4,dyp-30 motif,hypothetical protein,,,,,cilia,Dpy-30 motif
+SteCoe_4266,0,0,9,2,2,13,4,0.553094572,9,1,0,0,9,1.4,2,90,0,20,14,90,1,sucrose 4,actin,Actin domain protein,,,,,actin cytoskeleton,Actin
+SteCoe_8134,0,0,9,1,1,11,2,0.659522774,9,1,0,0,9,0.7,1,90,0,10,7,90,1,sucrose 4,EF hand 8 domain protein,EF-hand_8 domain protein,,,,,EF hand,EF-hand domain pair
+SteCoe_2182,0,0,9,2,0,11,2,1,9,1,0,0,9,1.4,0,90,0,0,14,90,1,,hypothetical,hypothetical protein,,,,,,
+SteCoe_10313,0,0,9,1,0,10,1,1,9,1,0,0,9,0.7,0,90,0,0,7,90,1,,,DUF2475 domain protein,,,,,,Protein of unknown function (DUF2475)
+SteCoe_16577,0,0,9,1,0,10,1,1,9,1,0,0,9,0.7,0,90,0,0,7,90,1,sucrose 3,FAP172,BRE1 domain protein,,,,,cilia,BRE1 E3 ubiquitin ligase
+SteCoe_8983,0,0,9,1,0,10,1,1,9,1,0,0,9,0.7,0,90,0,0,7,90,1,sucrose 3,DRC11,AAA domain protein,,,,,cilia,ATPase family associated with various cellular activities (AAA)
+SteCoe_12354,0,0,9,0,0,9,0,1,9,1,0,0,9,0,0,90,0,0,0,90,NA,,,Radial_spoke domain protein,,,,,cilia,Radial spokehead-like protein
+SteCoe_29118,1,0,8,3,0,12,3,1,8,1,2.9,0,8,2.1,0,2.666666667,0,0,0.7,80,1,general 4,ef hand 8 domain,EF-hand_8 domain protein,,,,,EF hand,EF-hand domain pair
+SteCoe_4607,0,0,8,1,0,9,1,1,8,1,0,0,8,0.7,0,80,0,0,7,80,NA,sucrose 4,,hypothetical protein,,,,,,N-acetylmuramoyl-L-alanine amidase
+SteCoe_11679,0,0,8,0,0,8,0,1,8,1,0,0,8,0,0,80,0,0,0,80,NA,sucrose 3,,DUF4821 domain protein,,,,,oxidation-reduction process,Pyridine nucleotide-disulphide oxidoreductase
+SteCoe_18028,0,0,8,0,0,8,0,1,8,1,0,0,8,0,0,80,0,0,0,80,NA,sucrose 1,,MORN domain protein,,,,,,MORN repeat
+SteCoe_23216,0,0,8,0,0,8,0,1,8,1,0,0,8,0,0,80,0,0,0,80,NA,sucrose 4,Peptidase_C2 domain protein,Peptidase_C2 domain protein,,,,,proteolysis,Calpain family cysteine protease
+SteCoe_28695,0,0,8,0,0,8,0,1,8,1,0,0,8,0,0,80,0,0,0,80,NA,,,DUF4572 domain protein,,,,,,hypothetical protein
+SteCoe_6103,0,0,8,0,0,8,0,1,8,1,0,0,8,0,0,80,0,0,0,80,NA,,FAP89,WD40 domain protein,,,,,cilia,WD domain; G-beta repeat
+SteCoe_22984,0,0,7,1,1,9,2,0.659522774,7,1,0,0,7,0.7,1,70,0,10,7,70,NA,,,hypothetical protein,,,,,,Leucine Rich repeats (2 copies)
+SteCoe_14892,0,0,7,2,0,9,2,1,7,1,0,0,7,1.4,0,70,0,0,14,70,NA,sucrose 5,,hypothetical protein,,,,,,EF-hand domain pair
+SteCoe_11641,0,0,7,1,0,8,1,1,7,1,0,0,7,0.7,0,70,0,0,7,70,NA,OA 5,CDPK family kinase,CDPK family kinase,,,,,protein phosphorylation,Protein kinase domain
+SteCoe_15463,0,0,7,1,0,8,1,1,7,1,0,0,7,0.7,0,70,0,0,7,70,NA,sucrose 4,Ax_dynein_light domain protein,Ax_dynein_light domain protein,,,,,cilia,Axonemal dynein light chain
+SteCoe_12658,0,0,7,0,0,7,0,1,7,1,0,0,7,0,0,70,0,0,0,70,NA,,,Kinesin domain protein,,,,,microtubule-based movement,Kinesin motor domain
+SteCoe_31321,0,0,7,0,0,7,0,1,7,1,0,0,7,0,0,70,0,0,0,70,NA,general 4,FAP246,LRR_6 domain protein,,,,,cilia,Leucine Rich repeats (2 copies)
+SteCoe_32778,0,0,7,0,0,7,0,1,7,1,0,0,7,0,0,70,0,0,0,70,NA,sucrose 4,ODF3,shippo sperm tail PG rich,,,,,cilia,Sperm-tail PG-rich repeat
+SteCoe_34227,0,0,7,0,0,7,0,1,7,1,0,0,7,0,0,70,0,0,0,70,NA,sucrose 4,FAP115,hypothetical protein,,,,,cilia,EF-hand domain pair
+SteCoe_15202,0,0,6,5,5,16,10,0.408772009,6,1,0,0,6,3.5,5,60,0,50,35,60,1,,DOMON domain protein,DOMON domain protein,,,,,,
+SteCoe_13089,0,0,6,1,1,8,2,0.659522774,6,1,0,0,6,0.7,1,60,0,10,7,60,NA,sucrose 4,,hypothetical protein,,,,,,Reovirus sigma C capsid protein
+SteCoe_25306,1,0,6,1,0,8,1,1,6,1,2.9,0,6,0.7,0,2,0,0,0.233333333,60,NA,sucrose 4,RSP3,Radial_spoke_3 domain protein,,,,,cilia,Radial spoke protein 3
+SteCoe_24915,0,0,6,1,0,7,1,1,6,1,0,0,6,0.7,0,60,0,0,7,60,NA,,FAP184,DUF4201 domain protein,300,4,,,cilia,Domain of unknown function (DUF4201)
+SteCoe_30493,0,0,6,1,0,7,1,1,6,1,0,0,6,0.7,0,60,0,0,7,60,NA,OA 3,FAP250/DRC2,NYD-SP28 domain protein,,,,,cilia,hypothetical protein
+SteCoe_8252,0,0,6,1,0,7,1,1,6,1,0,0,6,0.7,0,60,0,0,7,60,NA,,,hypothetical protein,,,,,,
+SteCoe_10465,0,0,6,0,0,6,0,1,6,1,0,0,6,0,0,60,0,0,0,60,NA,sucrose 4,FAP210,TPH domain protein,,,,,cilia,hypothetical protein
+SteCoe_1102,0,0,6,0,0,6,0,1,6,1,0,0,6,0,0,60,0,0,0,60,NA,sucrose 3,IFT80,WD40 domain protein,,,,,cilia,WD domain; G-beta repeat
+SteCoe_1219,0,0,6,0,0,6,0,1,6,1,0,0,6,0,0,60,0,0,0,60,NA,sucrose 4,,DUF4496 domain protein,,,,,,Bacterial DNA-binding protein
+SteCoe_12938,0,0,6,0,0,6,0,1,6,1,0,0,6,0,0,60,0,0,0,60,NA,,Tctx-1,Tctex-1 domain protein,,,,,cilia,Tctex-1 family
+SteCoe_14049,0,0,6,0,0,6,0,1,6,1,0,0,6,0,0,60,0,0,0,60,NA,sucrose 4,RSP1,AKAP28 domain protein,,,,,cilia,MORN repeat
+SteCoe_15389,0,0,6,0,0,6,0,1,6,1,0,0,6,0,0,60,0,0,0,60,NA,sucrose 2,,ADK domain protein,,,,,,Adenylate kinase
+SteCoe_18447,0,0,6,0,0,6,0,1,6,1,0,0,6,0,0,60,0,0,0,60,NA,OA 4,GAS2 domain protein,GAS2 domain protein,,,,,GAS2,
+SteCoe_28368,0,0,6,0,0,6,0,1,6,1,0,0,6,0,0,60,0,0,0,60,NA,OA 4,GAS2 domain protein,GAS2 domain protein,,,,,GAS2,Growth-Arrest-Specific Protein 2 Domain
+SteCoe_33526,0,0,6,0,0,6,0,1,6,1,0,0,6,0,0,60,0,0,0,60,NA,sucrose 3,FAP57,hypothetical protein,,,,,cilia,WD domain; G-beta repeat
+SteCoe_8336,0,0,6,0,0,6,0,1,6,1,0,0,6,0,0,60,0,0,0,60,NA,sucrose 1,FAP143,hypothetical protein,,,,,cilia,
+SteCoe_842,0,0,6,0,0,6,0,1,6,1,0,0,6,0,0,60,0,0,0,60,NA,,FAP57,WD40 domain protein,,,,,cilia,WD domain; G-beta repeat
+SteCoe_976,0,0,6,0,0,6,0,1,6,1,0,0,6,0,0,60,0,0,0,60,NA,sucrose 4,FAP91,PaaSYMP domain protein,,,,,cilia,hypothetical protein
+SteCoe_24853,0,0,5,3,3,11,6,0.489853477,5,1,0,0,5,2.1,3,50,0,30,21,50,1,,,Tubulin domain protein,,,,,,Tubulin/FtsZ family; GTPase domain
+SteCoe_27614,0,0,5,1,1,7,2,0.659522774,5,1,0,0,5,0.7,1,50,0,10,7,50,NA,,,ABC2_membrane_3 domain protein,,,,,,ABC-2 family transporter protein
+SteCoe_10553,0,0,5,1,0,6,1,1,5,1,0,0,5,0.7,0,50,0,0,7,50,NA,sucrose 4,DPY-30,hypothetical protein,,,,,cilia,Dpy-30 motif
+SteCoe_16080,0,0,5,1,0,6,1,1,5,1,0,0,5,0.7,0,50,0,0,7,50,NA,sucrose 3,FAP94,Casc1_N domain protein,,,,,cilia,Borrelia P83/100 protein
+SteCoe_21145,0,0,5,1,0,6,1,1,5,1,0,0,5,0.7,0,50,0,0,7,50,NA,,,IPK domain protein,,,,,,
+SteCoe_23110,0,0,5,1,0,6,1,1,5,1,0,0,5,0.7,0,50,0,0,7,50,NA,OA 5,GAS2-like,hypothetical protein,,,,,GAS2,
+SteCoe_33,0,0,5,1,0,6,1,1,5,1,0,0,5,0.7,0,50,0,0,7,50,NA,sucrose 3,ODA1/DC2,hypothetical protein,,,,,cilia,FlxA-like protein
+SteCoe_3865,0,0,5,1,0,6,1,1,5,1,0,0,5,0.7,0,50,0,0,7,50,NA,,FAP42/ADK,AAA_17 domain protein,,,,,cilia,Dpy-30 motif
+SteCoe_10108,0,0,5,0,0,5,0,1,5,1,0,0,5,0,0,50,0,0,0,50,NA,,,hypothetical protein,300,4,,,,EF hand
+SteCoe_15886,0,0,5,0,0,5,0,1,5,1,0,0,5,0,0,50,0,0,0,50,NA,sucrose 4,,hypothetical protein,,,,,,hypothetical protein
+SteCoe_19739,0,0,5,0,0,5,0,1,5,1,0,0,5,0,0,50,0,0,0,50,NA,,PACRG,ParcG domain protein,,,,,cilia,Parkin co-regulated protein
+SteCoe_21950,0,0,5,0,0,5,0,1,5,1,0,0,5,0,0,50,0,0,0,50,NA,sucrose 3,FAP52 (MIP),WD40 domain protein,,,,,cilia,WD domain; G-beta repeat
+SteCoe_24203,0,0,5,0,0,5,0,1,5,1,0,0,5,0,0,50,0,0,0,50,NA,,,EF-hand_7 domain protein,,,,,,EF hand
+SteCoe_3693,0,0,5,0,0,5,0,1,5,1,0,0,5,0,0,50,0,0,0,50,NA,sucrose 3,,hypothetical protein,,,,,,YebF-like protein
+SteCoe_3715,0,0,5,0,0,5,0,1,5,1,0,0,5,0,0,50,0,0,0,50,NA,sucrose 4,FAP47,CH domain protein,,,,,cilia,MSP (Major sperm protein) domain
+SteCoe_4897,0,0,5,0,0,5,0,1,5,1,0,0,5,0,0,50,0,0,0,50,NA,sucrose 4,GAS2 domain protein,GAS2 domain protein,,,,,GAS2,Growth-Arrest-Specific Protein 2 Domain
+SteCoe_7266,0,0,5,0,0,5,0,1,5,1,0,0,5,0,0,50,0,0,0,50,NA,sucrose 4,,Actin domain protein,,,,,actin cytoskeleton,Actin
+SteCoe_9333,0,0,5,0,0,5,0,1,5,1,0,0,5,0,0,50,0,0,0,50,NA,,ODF3,SHIPPO-rpt domain protein,,,,,cilia,Sperm-tail PG-rich repeat
+SteCoe_9826,0,0,5,0,0,5,0,1,5,1,0,0,5,0,0,50,0,0,0,50,NA,,,SPRY domain protein,,,,,,HECT-domain (ubiquitin-transferase)
+SteCoe_9951,0,0,5,0,0,5,0,1,5,1,0,0,5,0,0,50,0,0,0,50,NA,sucrose 3,Ax_dynein_light domain protein,Ax_dynein_light domain protein,,,,,cilia,Axonemal dynein light chain
