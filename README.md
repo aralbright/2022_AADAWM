@@ -10,6 +10,8 @@ This repository accompanies version 3 of our manuscript, Genome-wide analysis of
 
 ### Raw Data Link: https://doi.org/10.6078/D1WT6W
 
+***10/10/2024 Still working on uploading the many raw data files to dryad.
+
 ## 1_bulk_ap
 
 
